@@ -1,0 +1,1 @@
+Issues: the number value could not convert to char and the assignment was adjusted to just include the first character of the number. (Unsure of how 65.790 becomes A in the first place to be completely honest)

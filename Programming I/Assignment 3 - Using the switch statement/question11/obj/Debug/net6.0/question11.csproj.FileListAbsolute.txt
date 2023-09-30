@@ -1,0 +1,15 @@
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.csproj.AssemblyReference.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.AssemblyInfoInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.AssemblyInfo.cs
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.csproj.CoreCompileInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/bin/Debug/net6.0/question11
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/bin/Debug/net6.0/question11.deps.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/bin/Debug/net6.0/question11.runtimeconfig.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/bin/Debug/net6.0/question11.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/bin/Debug/net6.0/question11.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/refint/question11.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/question11.genruntimeconfig.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question11/obj/Debug/net6.0/ref/question11.dll

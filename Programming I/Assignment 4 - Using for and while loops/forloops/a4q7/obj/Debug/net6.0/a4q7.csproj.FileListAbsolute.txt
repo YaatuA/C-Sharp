@@ -1,0 +1,15 @@
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.csproj.AssemblyReference.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.AssemblyInfoInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.AssemblyInfo.cs
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.csproj.CoreCompileInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/bin/Debug/net6.0/a4q7
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/bin/Debug/net6.0/a4q7.deps.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/bin/Debug/net6.0/a4q7.runtimeconfig.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/bin/Debug/net6.0/a4q7.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/bin/Debug/net6.0/a4q7.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/refint/a4q7.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/a4q7.genruntimeconfig.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 4/forloops/a4q7/obj/Debug/net6.0/ref/a4q7.dll

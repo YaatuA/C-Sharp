@@ -1,0 +1,15 @@
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/bin/Debug/net6.0/assignment1
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/bin/Debug/net6.0/assignment1.deps.json
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/bin/Debug/net6.0/assignment1.runtimeconfig.json
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/bin/Debug/net6.0/assignment1.dll
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/bin/Debug/net6.0/assignment1.pdb
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.csproj.AssemblyReference.cache
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.AssemblyInfoInputs.cache
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.AssemblyInfo.cs
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.csproj.CoreCompileInputs.cache
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.dll
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/refint/assignment1.dll
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.pdb
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/assignment1.genruntimeconfig.cache
+/Users/yaatuadem/Desktop/COMP123/assignment1/assignment1/obj/Debug/net6.0/ref/assignment1.dll

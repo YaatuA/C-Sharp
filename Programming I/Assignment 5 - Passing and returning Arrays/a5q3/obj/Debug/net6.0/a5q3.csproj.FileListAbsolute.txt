@@ -1,0 +1,15 @@
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.csproj.AssemblyReference.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.AssemblyInfoInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.AssemblyInfo.cs
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.csproj.CoreCompileInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/bin/Debug/net6.0/a5q3
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/bin/Debug/net6.0/a5q3.deps.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/bin/Debug/net6.0/a5q3.runtimeconfig.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/bin/Debug/net6.0/a5q3.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/bin/Debug/net6.0/a5q3.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/refint/a5q3.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/a5q3.genruntimeconfig.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 5/a5q3/obj/Debug/net6.0/ref/a5q3.dll

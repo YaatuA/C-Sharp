@@ -1,0 +1,1 @@
+Assignment is completed with for loops and while loops in separate project files, located in the designated folders

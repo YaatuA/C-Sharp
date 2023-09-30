@@ -1,0 +1,22 @@
+﻿<BMI>
+  <Range>
+    <Category>Underweight</Category>
+    <Minimum>0.0</Minimum>
+    <Maximum>18.5</Maximum>
+  </Range>
+  <Range>
+    <Category>Normal Weight</Category>
+    <Minimum>18.5</Minimum>
+    <Maximum>24.9</Maximum>
+  </Range>
+  <Range>
+    <Category>Overweight</Category>
+    <Minimum>25.0</Minimum>
+    <Maximum>29.9</Maximum>
+  </Range>
+  <Range>
+    <Category>Obese</Category>
+    <Minimum>30.0</Minimum>
+    <Maximum>1000.0</Maximum>
+  </Range>
+</BMI>

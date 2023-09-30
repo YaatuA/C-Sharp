@@ -1,0 +1,15 @@
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/bin/Debug/net6.0/a2q4
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/bin/Debug/net6.0/a2q4.deps.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/bin/Debug/net6.0/a2q4.runtimeconfig.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/bin/Debug/net6.0/a2q4.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/bin/Debug/net6.0/a2q4.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.csproj.AssemblyReference.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.AssemblyInfoInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.AssemblyInfo.cs
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.csproj.CoreCompileInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/refint/a2q4.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/a2q4.genruntimeconfig.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 2/a2q4/obj/Debug/net6.0/ref/a2q4.dll

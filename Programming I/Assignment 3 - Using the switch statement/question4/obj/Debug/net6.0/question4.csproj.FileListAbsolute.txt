@@ -1,0 +1,15 @@
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.csproj.AssemblyReference.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.AssemblyInfoInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.AssemblyInfo.cs
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.csproj.CoreCompileInputs.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/bin/Debug/net6.0/question4
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/bin/Debug/net6.0/question4.deps.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/bin/Debug/net6.0/question4.runtimeconfig.json
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/bin/Debug/net6.0/question4.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/bin/Debug/net6.0/question4.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/refint/question4.dll
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.pdb
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/question4.genruntimeconfig.cache
+/Users/yaatuadem/Desktop/COMP 100/Assignment 3/question4/obj/Debug/net6.0/ref/question4.dll
